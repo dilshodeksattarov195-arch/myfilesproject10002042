@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "invoicedelete",
+        "uuid": 16101170,
+        "checksum": "z3htze"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
